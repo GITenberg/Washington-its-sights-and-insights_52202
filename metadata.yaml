@@ -1,0 +1,26 @@
+_repo: Washington-its-sights-and-insights_52202
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monroe, Harriet Earhart
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '46521'
+    url: http://www.gutenberg.org/2009/agents/46521
+description: ''
+gutenberg_issued: '2016-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52202'
+  lccn: 09026652
+language: en
+publication_note: New York and London, Funk & Wagnalls company, 1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Washington (D.C.) -- Description and travel'
+- !lcc 'F106'
+- GITenberg
+title: Washington, its sights and insights
+url: http://www.gutenberg.org/ebooks/52202
